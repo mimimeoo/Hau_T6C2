@@ -12,7 +12,8 @@ My skills: C#, Java, Node.
 ![image](https://github.com/user-attachments/assets/a2866a59-620d-4c89-8163-940af83f07db) ![image](https://github.com/user-attachments/assets/8f06615b-ccca-48ad-af37-b43477b7fb26) ![image](https://github.com/user-attachments/assets/6fb20121-dd8b-44d8-b1a8-62a33a45c6a3)
 
 
-My team
+My team: Huy, Thịnh, Linh, Đạt, Hậu
 
-https://www.facebook.com/profile.php?id=100040795507157&locale=vi_VN
+Project of our group: Web bán điện thoại được team phát triển với giao diện thân thiện, nhiều sự lựa chọn nhằm giúp người dùng dễ dàng tìm kiếm được thiết bị phù hợp với nhu cầu sử dụng
+
 
